@@ -8,6 +8,8 @@ This project offers the capability to find the five most similar houses to a use
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv
 
 # Data features and description
+<details>
+  <summary>Click to expand</summary>
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
@@ -531,6 +533,7 @@ SaleCondition: Condition of sale
        Alloca	Allocation - two linked properties with separate deeds, typically condo with a garage unit	
        Family	Sale between family members
        Partial	Home was not completed when last assessed (associated with New Homes)
+</details>
 
 # Sample input
 User's searched property id such as 21
