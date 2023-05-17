@@ -1,13 +1,13 @@
 # HouseRecommendationSystem
 V 1.0.0
 
-#Introduction 
+# Introduction 
 This project offers the capability to find the five most similar houses to a user's searched property, providing a valuable feature for your real estate website. By showcasing these similar properties, you can effectively engage users, encourage longer website visits, and ultimately reduce the bounce rate.
 
-#Dataset
+# Dataset
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv
 
-#Data features and description
+# Data features and description
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
@@ -532,13 +532,13 @@ SaleCondition: Condition of sale
        Family	Sale between family members
        Partial	Home was not completed when last assessed (associated with New Homes)
 
-#Sample input
+# Sample input
 User's searched property id such as 21
 
-#Sample output 
+# Sample output 
 Top 5 similar properties such as 1101, 604, 1153, 449, 52   
 
-#And now the input and output records (You can see how similar they are:D)
+And now the input and output records (You can see how similar they are:D)
 
      MSSubClass MSZoning  LotFrontage  LotArea Street LotShape LandContour  \
 21            45       RM         57.0     7449   Pave      Reg         Bnk   
@@ -564,6 +564,7 @@ Top 5 similar properties such as 1101, 604, 1153, 449, 52
 449         0       0       6    2007        WD         Normal    120000  
 52          0       0       5    2010        WD         Normal    110000  
 
-#For the next version, I am thinking about agent's description and user's comments ... I should probabely use some sort of deep learning transformer to work with textual data... NLP is comming!!!
+# Future Plan
+For the next version, I am thinking about agent's description and user's comments ... I should probabely use some sort of deep learning transformer to work with textual data... NLP is comming!!!
 
 
