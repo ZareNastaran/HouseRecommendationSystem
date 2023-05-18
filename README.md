@@ -570,7 +570,7 @@ And now the input and output records (You can see how similar they are:D)
 # Future Plan
 For the next version, I am thinking about agent's description and user's comments ... I should probabely use some sort of deep learning transformer to work with textual data... NLP is comming!!!
 	
-#V 1.2.0
+# V 1.2.0
 In this version, I added a new feature. User can enter an agent description and get the 5 most similar descriptions. As a result, in this way we can display recommended houses to the users, based on agent descriptions.
 	
 For the next version, I am thinking about combining the two versions. By this means, we can find the most most similar(Haha) houses and display on our real estate website.
