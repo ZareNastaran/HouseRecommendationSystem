@@ -574,5 +574,9 @@ For the next version, I am thinking about agent's description and user's comment
 In this version, I added a new feature. User can enter an agent description and get the 5 most similar descriptions. As a result, in this way we can display recommended houses to the users, based on agent descriptions.
 	
 For the next version, I am thinking about combining the two versions. By this means, we can find the most most similar(Haha) houses and display on our real estate website.
+	
+Also here is the sample dataset that I have used for this version:
+https://www.kaggle.com/datasets/promptcloud/trulia-property-listing-dataset-2020
+
 
 
